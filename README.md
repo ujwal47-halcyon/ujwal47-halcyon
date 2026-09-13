@@ -16,19 +16,15 @@
 
  
   ### 📊 My GitHub Stats
-  <p align="left">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ujwal47-halcyon&show_icons=true&theme=toky
-  onight&hide_border=true&include_all_commits=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal47-halcyon&layout=compact&
-  theme=tokyonight&hide_border=true" />
-  </p>
 
-  <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujwal47-halcyon&theme=tokyonight&hide_border=true"
-  />
-  </p>
-  (If it still shows an error immediately after committing, don't worry—sometimes it takes up to 10-15 minutes for the
-  Vercel cache to build for a new profile).
+  ![Ujwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujwal47-halcyon&show_icons=true&theme=toky
+  onight&hide_border=true&include_all_commits=true)
+
+  ![Ujwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal47-halcyon&layout=compact
+  &theme=tokyonight&hide_border=true)
+
+  ![Ujwal's
+  Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujwal47-halcyon&theme=tokyonight&hide_border=true)
 
   ---
   ### 📈 Proof of Work
