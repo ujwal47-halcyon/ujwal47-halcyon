@@ -1,7 +1,7 @@
- # Hi, I'm Ujwal 👋
+  # Hi, I'm Ujwal 👋
 
   I am an **Offensive Cloud Security Researcher** focused on breaking and building secure cloud architectures. I don't
-  just study vulnerabilities; I research exploit chains to understand how to engineer better defenses.
+  study vulnerabilities; I research exploit chains to understand how to engineer better defenses.
 
   ### 🎯 Current Focus
   - **AWS IAM Exploitation:** Researching Privilege Escalation (PrivEsc) and lateral movement.
@@ -15,14 +15,11 @@
 
   ### 📊 My GitHub Stats
 
-  ![Ujwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujwal47-halcyon&show_icons=true&theme=toky
-  onight&hide_border=true&include_all_commits=true)
+  ![Ujwal's Stats](https://github-readme-stats.vercel.app/api?username=ujwal47-halcyon&show_icons=true&theme=tokyonight&hide_border=true)
 
-  ![Ujwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal47-halcyon&layout=compact
-  &theme=tokyonight&hide_border=true)
+  ![Ujwal's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal47-halcyon&layout=compact&theme=tokyonight&hide_border=true)
 
-  ![Ujwal's
-  Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujwal47-halcyon&theme=tokyonight&hide_border=true)
+  ![Ujwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujwal47-halcyon&theme=tokyonight&hide_border=true)
 
   ---
   ### 📈 Proof of Work
