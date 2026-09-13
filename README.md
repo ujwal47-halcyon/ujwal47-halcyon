@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ujwal 👋
 
-<!--
-**ujwal47-halcyon/ujwal47-halcyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I am a Cloud Security Researcher specializing in **Offensive AWS Operations**. I don't just study vulnerabilities; I
+  build them, exploit them, and then engineer the automation to prevent them.
 
-Here are some ideas to get you started:
+  ### 🎯 Current Focus
+  - **AWS IAM Hardening:** Researching Privilege Escalation (PrivEsc) vectors.
+  - **Automated Defense:** Writing Python/Boto3 scripts for real-time threat remediation.
+  - **DevSecOps:** Integrating security into the IaC (Terraform) lifecycle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 🛠️ The Hunter's Toolbox
+  - **Cloud:** AWS (IAM, VPC, S3, CloudTrail)
+  - **Security:** Burp Suite, AWS CLI, Pacu, CloudSploit
+  - **Coding:** Python (Boto3), Bash, Flask
+
+  ### 📈 Proof of Work
+  Check out my [AWS-Security-Research](./aws-security-research) repo for deep-dives into cloud attack chains.
+
+  ---
