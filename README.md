@@ -14,10 +14,11 @@
   - **Security:** Burp Suite, AWS CLI, Pacu, Metasploit, Nmap
   - **Coding:** Python (Boto3), Bash, Flask, Linux
 
+ 
   ### 📊 My GitHub Stats
   <p align="left">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ujwal47-halcyon&show_icons=true&theme=toky
-  onight&hide_border=true" />
+  onight&hide_border=true&include_all_commits=true" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal47-halcyon&layout=compact&
   theme=tokyonight&hide_border=true" />
   </p>
@@ -26,7 +27,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujwal47-halcyon&theme=tokyonight&hide_border=true"
   />
   </p>
+  (If it still shows an error immediately after committing, don't worry—sometimes it takes up to 10-15 minutes for the
+  Vercel cache to build for a new profile).
 
+  ---
   ### 📈 Proof of Work
   Currently documenting my **60-Day Cloud Security Challenge**. You can find my deep-dives into IAM Privilege Escalation
   and VPC Security in my [aws-security-research](https://github.com/ujwal47-halcyon/aws-security-research) repository.
