@@ -17,3 +17,14 @@
   Check out my [AWS-Security-Research](./aws-security-research) repo for deep-dives into cloud attack chains.
 
   ---
+<p align="left">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ujwal47-halcyon&show_icons=true&theme=toky
+  onight&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal47-halcyon&layout=compact&
+  theme=tokyonight&hide_border=true" />
+  </p>
+
+  <p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujwal47-halcyon&theme=tokyonight&hide_border=true"
+  />
+  </p>
