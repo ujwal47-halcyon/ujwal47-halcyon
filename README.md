@@ -14,11 +14,13 @@ I am an **Offensive Cloud Security Researcher** focused on breaking and building
 
 ### 📊 My GitHub Stats
 
-![Ujwal's Stats](https://github-readme-stats.vercel.app/api?username=ujwal47-halcyon&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ujwal47-halcyon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ujwal's GitHub Stats" />
+</p>
 
-![Ujwal's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal47-halcyon&layout=compact&theme=tokyonight&hide_border=true)
-
-![Ujwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujwal47-halcyon&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujwal47-halcyon&theme=tokyonight&hide_border=true" alt="Ujwal's Streak" />
+</p>
 
 ---
 ### 📈 Proof of Work
