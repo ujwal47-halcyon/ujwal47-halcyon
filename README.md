@@ -1,18 +1,18 @@
-# Hi, I'm Ujwal 👋
+# Hi, I'm Ujwal!
 
 I am an **Offensive Cloud Security Researcher** focused on breaking and building secure cloud architectures. I don't study vulnerabilities; I research exploit chains to understand how to engineer better defenses.
 
-### 🎯 Current Focus
+### Current Focus
 - **AWS IAM Exploitation:** Researching Privilege Escalation (PrivEsc) and lateral movement.
 - **Defensive Automation:** Developing Python/Boto3 tools for real-time cloud threat detection.
 - **Red Teaming:** Simulating real-world attack vectors in AWS environments.
 
-### 🛠️ The Hunter's Toolbox
+### The Hunter's Toolbox
 - **Cloud:** AWS (IAM, VPC, S3, CloudTrail, STS)
 - **Security:** Burp Suite, AWS CLI, Pacu, Metasploit, Nmap
 - **Coding:** Python (Boto3), Bash, Flask, Linux
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ujwal47-halcyon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ujwal's GitHub Stats" />
