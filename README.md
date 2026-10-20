@@ -1,30 +1,33 @@
-# Hi, I'm Ujwal!
+# Ujwal Vishwanath
 
-I am an **Offensive Cloud Security Researcher** focused on breaking and building secure cloud architectures. I don't study vulnerabilities; I research exploit chains to understand how to engineer better defenses.
+BCA Cybersecurity and Digital Forensics student at REVA University, Bengaluru.
 
-### Current Focus
-- **AWS IAM Exploitation:** Researching Privilege Escalation (PrivEsc) and lateral movement.
-- **Defensive Automation:** Developing Python/Boto3 tools for real-time cloud threat detection.
-- **Red Teaming:** Simulating real-world attack vectors in AWS environments.
+I'm learning AWS security, Linux, networking and Python. Most of my current work is hands-on lab practice and small tools that help me understand security issues and how to investigate them. I use this profile to keep my notes and projects in one place.
 
-### The Hunter's Toolbox
-- **Cloud:** AWS (IAM, VPC, S3, CloudTrail, STS)
-- **Security:** Burp Suite, AWS CLI, Pacu, Metasploit, Nmap
-- **Coding:** Python (Boto3), Bash, Flask, Linux
+## Currently working on
 
-### My GitHub Stats
+- AWS IAM permissions and least-privilege access
+- Understanding common S3 and EC2 security mistakes
+- Python scripts for network checks and log analysis
+- Writing clearer notes from security labs
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ujwal47-halcyon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ujwal's GitHub Stats" />
-</p>
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujwal47-halcyon&theme=tokyonight&hide_border=true" alt="Ujwal's Streak" />
-</p>
+- [AWS Security Research](https://github.com/ujwal47-halcyon/aws-security-research)  
+  Notes from AWS security labs, including IAM, S3, EC2 and cloud misconfiguration exercises.
 
----
-### 📈 Proof of Work
-Currently documenting my **60-Day Cloud Security Challenge**. You can find my deep-dives into IAM Privilege Escalation and VPC Security in my [aws-security-research](https://github.com/ujwal47-halcyon/aws-security-research) repository.
+- [Automated Network Recon Tools](https://github.com/ujwal47-halcyon/automated-network-recon-tools)  
+  A collection of Python security utilities, including a port scanner and web log analyser.
 
----
-"If you want to protect the cloud, you must first learn how to hunt in it."
+- [Vulnerable App Archive](https://github.com/ujwal47-halcyon/vulnerable-app-archive)  
+  Notes from web security and CTF practice.
+
+## Skills I'm building
+
+- **Cloud:** AWS fundamentals, IAM, S3, EC2
+- **Systems:** Linux, Bash
+- **Programming:** Python
+- **Networking:** TCP/IP, port scanning, HTTP basics
+- **Tools:** Git, AWS CLI
+
+I’m still learning, so I try to document what I have tested and keep the limitations clear.
