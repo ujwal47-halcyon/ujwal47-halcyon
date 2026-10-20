@@ -2,32 +2,40 @@
 
 BCA Cybersecurity and Digital Forensics student at REVA University, Bengaluru.
 
-I'm learning AWS security, Linux, networking and Python. Most of my current work is hands-on lab practice and small tools that help me understand security issues and how to investigate them. I use this profile to keep my notes and projects in one place.
+I'm learning AWS security, Linux, networking and Python. This profile is where I keep my lab notes and small projects as I work through the basics and build more practical experience.
 
-## Currently working on
+## Learning focus
 
-- AWS IAM permissions and least-privilege access
-- Understanding common S3 and EC2 security mistakes
-- Python scripts for network checks and log analysis
-- Writing clearer notes from security labs
+1. Linux and networking fundamentals
+2. AWS basics, IAM and account security
+3. S3 and EC2 security
+4. Cloud security labs and privilege escalation scenarios
+5. Python tools for network checks and log analysis
+6. Web security and CTF practice
 
 ## Projects
 
-- [AWS Security Research](https://github.com/ujwal47-halcyon/aws-security-research)  
-  Notes from AWS security labs, including IAM, S3, EC2 and cloud misconfiguration exercises.
+### 1. AWS Security Research
+Notes from AWS security labs, including IAM, S3, EC2, account security and cloud misconfiguration exercises.
 
-- [Automated Network Recon Tools](https://github.com/ujwal47-halcyon/automated-network-recon-tools)  
-  A collection of Python security utilities, including a port scanner and web log analyser.
+[Open repository](https://github.com/ujwal47-halcyon/aws-security-research)
 
-- [Vulnerable App Archive](https://github.com/ujwal47-halcyon/vulnerable-app-archive)  
-  Notes from web security and CTF practice.
+### 2. Python Security Tools
+A collection of Python utilities for network scanning, log analysis, hash exercises and wordlist generation.
+
+[Open repository](https://github.com/ujwal47-halcyon/automated-network-recon-tools)
+
+### 3. Web Security and CTF Notes
+Notes from practice exercises covering authentication, access control, IDOR and XSS.
+
+[Open repository](https://github.com/ujwal47-halcyon/vulnerable-app-archive)
 
 ## Skills I'm building
 
-- **Cloud:** AWS fundamentals, IAM, S3, EC2
-- **Systems:** Linux, Bash
+- **Cloud:** AWS fundamentals, IAM, S3 and EC2
+- **Systems:** Linux and Bash
 - **Programming:** Python
-- **Networking:** TCP/IP, port scanning, HTTP basics
-- **Tools:** Git, AWS CLI
+- **Networking:** TCP/IP, ports and HTTP basics
+- **Tools:** Git and AWS CLI
 
-I’m still learning, so I try to document what I have tested and keep the limitations clear.
+I update these repositories as I learn and test more. The projects are works in progress, and I try to keep the notes close to what I have actually done.
